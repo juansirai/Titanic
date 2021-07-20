@@ -1,5 +1,7 @@
-# Titanic
+# Titanic 🛳
 *Titanic:  a statistical approach to a catastrophe*
+
+![titanic](https://okdiario.com/img/2019/09/22/cuantas-personas-murieron-en-el-titanic-y-cuantas-sobrevivieron-655x368.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
